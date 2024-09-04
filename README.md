@@ -8,6 +8,8 @@
 - 📫 How to reach me **manarsalah09872@gmail.com**
 
 
+<b>
+
 ## 🛠 Languages and Tools
 <br>
 <p align="center">
