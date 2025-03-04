@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manar42&label=Profile%20views&color=0e75b6&style=flat" alt="manar42" /> </p>
 
+### 👩 About Me:
+- 🌱 I’m currently learning flutter
 - 👨‍💻 All of my projects are available at [https://github.com/manar42?tab=repositories](https://github.com/manar42?tab=repositories)
+- 🤔 I use daily ```.Flutter```,``` .vs code```, 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
