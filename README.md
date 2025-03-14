@@ -16,6 +16,10 @@
 <a href="https://codeforces.com/profile/noura_555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noura_555" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">
+  🚀 Languages and Tools:
+</h2>
+
 <p align="center">
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
