@@ -80,11 +80,6 @@ Testing, CI/CD & Releases
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manar42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manar42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
-
----
 
 ### 🔥 Contribution Streak
 
