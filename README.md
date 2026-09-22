@@ -1,94 +1,65 @@
-<h1 align="center">Hi 👋, I'm Manar Salah</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Flutter Developer</strong>
-</p>
+# Hi, I'm Manar Salah
 
-<p align="center">
-  Building cross-platform applications with Flutter, focusing on clean architecture, maintainable code, and practical engineering.
-</p>
+### Flutter Developer
 
-<p align="center">
-  <a href="https://github.com/manar42?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
-  </a>
-  <a href="https://www.linkedin.com/in/manar-salah-8125052ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+I build mobile and cross-platform applications with Flutter, with a focus on **clean architecture, practical UI, reliable state management, and real-world integrations.**
+
+<br>
+
+<a href="https://github.com/manar42?tab=repositories">View Repositories</a>
+  ·   <a href="https://www.linkedin.com/in/manar-salah-8125052ab/">LinkedIn</a>
+
+</div>
 
 ---
 
-## About
+### A little about me
 
-Flutter Developer working on mobile and cross-platform applications.
+I'm a Flutter Developer who enjoys turning ideas and requirements into structured, usable applications.
 
-My current development experience includes:
+My work goes beyond building screens. I care about how the application is **structured, how its state flows, how services communicate, and how it behaves when things don't go as expected.**
 
-* **Flutter & Dart** for cross-platform application development
-* **BLoC / Cubit** for state management
-* **Clean Architecture & MVVM** for application structure
-* **Firebase & Supabase** for backend services
-* **REST APIs & Postman** for API integration and testing
-* **Maps, routing, notifications, authentication, and role-based workflows**
-* **Git & GitHub** for version control and collaboration
-* **GitHub Actions, Fastlane & Firebase App Distribution** for CI/CD
-* **MediaPipe & TensorFlow Lite** for on-device ML integration
+I'm particularly interested in:
 
----
+* Designing maintainable Flutter applications with **Clean Architecture**
+* Managing complex application state with **BLoC / Cubit**
+* Integrating **Firebase, Supabase, REST APIs, maps, notifications, and authentication**
+* Working with **CI/CD and release automation** using GitHub Actions and Fastlane
+* Exploring **on-device Machine Learning** with MediaPipe and TensorFlow Lite
+* Debugging problems, investigating edge cases, and improving existing implementations
 
-## Tech Stack
+### How I approach development
 
-**Mobile**
+I prefer understanding the problem before choosing the implementation.
 
-`Flutter` `Dart`
+That means thinking about the user flow, application structure, data flow, failure cases, and how a feature will behave beyond the happy path.
 
-**Architecture & State Management**
+I also value **consistency and maintainability** — code should be understandable, features should have a clear place, and adding something new shouldn't mean rewriting everything around it.
 
-`BLoC` `Cubit` `Clean Architecture` `MVVM` `Dependency Injection`
+### My main stack
 
-**Backend & Services**
+`Flutter` `Dart` `BLoC` `Cubit` `Clean Architecture` `MVVM`
 
-`Firebase` `Cloud Firestore` `Firebase Cloud Messaging` `Supabase`
-
-**CI/CD**
+`Firebase` `Firestore` `Supabase` `REST APIs`
 
 `GitHub Actions` `Fastlane` `Firebase App Distribution`
 
-**Machine Learning**
-
 `MediaPipe` `TensorFlow Lite`
 
-**Tools**
+### What I'm building toward
 
-`Git` `GitHub` `VS Code` `Postman`
+I'm continuing to grow as a Flutter Developer while expanding my understanding of **software architecture, backend integration, testing, automation, and product-oriented development**.
 
----
-
-## What I Work On
-
-* Cross-platform mobile applications
-* Scalable application architecture
-* Backend and third-party service integration
-* Authentication and role-based access
-* API integration and testing
-* Maps, routing, and location-based features
-* Real-time communication and notifications
-* Release automation and CI/CD
-* On-device Machine Learning
+I like working on applications where there is an actual problem to solve — especially when the solution requires more than just building a UI.
 
 ---
 
-## Find My Work
+<div align="center">
 
-All of my projects and source code are available in my GitHub repositories.
+**Code, experiments, and projects**
 
-**→ [View all repositories](https://github.com/manar42?tab=repositories)**
+→ <a href="https://github.com/manar42?tab=repositories">github.com/manar42</a>
 
----
-
-## Connect
-
-**LinkedIn:** [linkedin.com/in/manar-salah-8125052ab](https://www.linkedin.com/in/manar-salah-8125052ab/)
-
-**GitHub:** [github.com/manar42](https://github.com/manar42)
+</div>
